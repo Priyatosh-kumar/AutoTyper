@@ -3,6 +3,7 @@ from tkinter import ttk, messagebox
 import pyautogui
 import re
 
+# This code is a simple GUI application that allows users to input text and automatically type it out
 class AutoTyper:
     def __init__(self, root):
         self.root = root
